@@ -1,6 +1,6 @@
 # UnknownArchive
 i just want to save something but :skull:
 
-| Archive Name     | Version |
-| ---------------- | ------- |
-| MediaDownloader  | N/A     |
+| Archive Name     | Version | Description |
+| ---------------- | ------- | ----------- |
+| MediaDownloader  | N/A     | N/A         |
